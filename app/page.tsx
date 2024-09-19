@@ -12,6 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
+        <Image src='/profile.jpg' width={100} height={100} alt='dummy' />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Get started by editing{" "}
